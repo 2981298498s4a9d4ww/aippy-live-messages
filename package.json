@@ -1,0 +1,17 @@
+{
+  "name": "aippy-live-messages",
+  "version": "1.0.0",
+  "description": "Live anonymous messages with censorship for Aippy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
